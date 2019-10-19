@@ -1,5 +1,5 @@
 
-[                    Project Euler #3 solved in Brainfuck.                    ]
+[                    Project Euler #5 solved in Brainfuck.                    ]
 [             Copyright (C) by Kamila Szewczyk 2019. Have fun!             ]
 [ The cheating version that is just validating precalculated result. For real ]
 [ calculating version, check the B variant of the program. It's taking around ]
